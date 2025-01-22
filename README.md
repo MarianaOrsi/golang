@@ -6,7 +6,7 @@ Praticando códigos na linguagem Go
 
 - A linguagem Go, também conhecida como Golang, é uma linguagem de programação desenvolvida pela Google, lançada em 2009. Ela foi criada para ser simples, eficiente e fácil de usar, com foco em desempenho e concorrência.
 
-- ### Principais Características:
+ ### Principais Características:
 
 1. Sintaxe Simples: Go possui uma sintaxe clara, o que facilita a leitura e a escrita do código.
 
