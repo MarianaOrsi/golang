@@ -2,7 +2,7 @@
 Praticando códigos na linguagem Go
 
 - Esse é um repositório focado em estudos, onde coloco todos os códigos de práticas na linguagem Golang.
-  ---
+- 
 - A linguagem Go, também conhecida como Golang, é uma linguagem de programação desenvolvida pela Google, lançada em 2009. Ela foi criada para ser simples, eficiente e fácil de usar, com foco em desempenho e concorrência.
 
 - ### Principais Características:
