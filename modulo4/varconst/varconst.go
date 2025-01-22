@@ -6,7 +6,7 @@ func main() {
 
 	// Variaveis
 	var nome string
-	nome = "Mariana"
+	nome = "Mari"
 	fmt.Println(nome)
 
 	nome = "Orsi"
